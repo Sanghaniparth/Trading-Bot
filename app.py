@@ -17,8 +17,8 @@ client = Client(config.API_KEY, config.SECRET_KEY, tld='com')
 
 d = {}
 d1 = {}
-API_KEY = 'KBiHlUVMFS82rCeNvXexfiH4SxaOAHljhMbe0na8IH4fMZgLq4MMSc7zIGaypkBt'
-SECRET_KEY = 'siZWVbcFn1XNXqFGWfh1HWAgAOwKEb737ZVPBnbRdpznd7PxYjS6tn4gs5KF7sPm'
+API_KEY = ''
+SECRET_KEY = ''
 client = Client(API_KEY,SECRET_KEY,tld='com')
 
 @app.route('/')
