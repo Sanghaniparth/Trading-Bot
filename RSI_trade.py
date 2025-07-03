@@ -13,8 +13,8 @@ db = clt.RSI_TRADE
 col = db.ORDER
 col1 = db.BALANCE
 
-# API_KEY = 'KBiHlUVMFS82rCeNvXexfiH4SxaOAHljhMbe0na8IH4fMZgLq4MMSc7zIGaypkBt'
-# API_SECRET = 'siZWVbcFn1XNXqFGWfh1HWAgAOwKEb737ZVPBnbRdpznd7PxYjS6tn4gs5KF7sPm'
+# API_KEY = ''
+# API_SECRET = ''
 
 oversell = oversell
 rsi_period = rsi_period
